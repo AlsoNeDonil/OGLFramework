@@ -1,0 +1,13 @@
+#Directories
+bin/
+bin-int
+
+#Visual Studio files
+.vs
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+#ImGui files
+**.ini

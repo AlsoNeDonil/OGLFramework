@@ -1,0 +1,12 @@
+[submodule "OGLFramework/vendor/spdlog"]
+	path = OGLFramework/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "OGLFramework/vendor/GLFW"]
+	path = OGLFramework/vendor/GLFW
+	url = https://github.com/TheCherno/GLFW
+[submodule "OGLFramework/vendor/ImGui"]
+	path = OGLFramework/vendor/ImGui
+	url = https://github.com/TheCherno/Imgui
+[submodule "OGLFramework/vendor/glm"]
+	path = OGLFramework/vendor/glm
+	url = https://github.com/g-truc/glm
